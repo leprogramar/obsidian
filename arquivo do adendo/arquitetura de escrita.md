@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] Objetivo
 - [ ] Desfecho primério
 - [ ] TCLE
+- [ ] Bibliografia
 
 
 ## Concluido
