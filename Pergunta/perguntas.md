@@ -22,6 +22,8 @@
 - [x] pse 
 - [x] cilo menstrual o basico
 - [ ] sondar quem sao os atltas
+- [ ] eu esqueci de alterar o arquivo certo
+- [ ] 
 
 
 
