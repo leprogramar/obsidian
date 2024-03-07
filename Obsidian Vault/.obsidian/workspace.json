@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "020f2c90e6a79aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "af792f33691f873c",
+        "type": "tabs",
+        "dimension": 57.49336870026526,
+        "children": [
+          {
+            "id": "7c86923257680fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eecc6ddba8d1e9dc",
+        "type": "tabs",
+        "dimension": 42.50663129973474,
+        "children": [
+          {
+            "id": "c7485323990ddb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pergunta/perguntas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa13ab0208c8b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "698570151d87c109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ee838bdd964806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f8c4f9a304d66f83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7aaf08ade9a0cda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.51103591918945
+  },
+  "right": {
+    "id": "e638a0effc65b430",
+    "type": "split",
+    "children": [
+      {
+        "id": "298f5673b7b55099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f051de06efaf2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67c5d583e250ea7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b1aba3672a565925",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1fa0768c9ab2475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dissertação CAP/Metodologia - reformulação 4.md"
+              }
+            }
+          },
+          {
+            "id": "018954a51099d42a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7c86923257680fa4",
+  "lastOpenFiles": [
+    "Pergunta/perguntas.md",
+    "dissertação CAP/Metodologia - reformulação 4.md",
+    "Pergunta/perguntas metodologia.md",
+    "dissertação CAP/Mecanismos de ação.md",
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/esquema-experimental.png",
+    "arquivo do adendo/arquitetura de escrita.md",
+    "Pergunta",
+    "Título do adendo.md",
+    "dissertação CAP/Metodologia.md",
+    "Readwise/Articles/Capsaicin Risks and Benefits.md",
+    "Sem título.canvas",
+    "dissertação CAP/ciclo menstrual.md",
+    "dissertação CAP/desenho-orientador.jpeg",
+    "dissertação CAP/esquema experimental a4.png",
+    "dissertação CAP/Pasted image 20240222175713.png",
+    "dissertação CAP/Esquema experimental.md",
+    "dissertação CAP/esquema1.png",
+    "dissertação CAP/esquema3.png",
+    "dissertação CAP/2.png",
+    "dissertação CAP/esquema2.png",
+    "dissertação CAP/1.png",
+    "dissertação CAP/3.png",
+    "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo",
+    "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo.zip",
+    "dissertação CAP/Não confirmado 815910.crdownload",
+    "dissertação CAP/Citações/Links, textos e artigos.md",
+    "2024-02-26.md",
+    "Readwise/Articles/Getting Started with Reader.md",
+    "Readwise/Articles",
+    "Readwise",
+    "arquivo do adendo/Tópicos do adendo.md",
+    "dissertação CAP/CAP.md",
+    "dissertação CAP/Esquema de coletas.md",
+    "dissertação CAP/TRPV1.md",
+    "projeto pdf",
+    "arquivo do adendo",
+    "dissertação CAP/Natação.md",
+    "esquema-experimental.png.md",
+    "dissertação CAP/Dados/Dados.md",
+    "dissertação CAP/Dados/Análise de dados.md",
+    "dissertação CAP/Hipótese.md",
+    "dissertação CAP/Objetivo.md",
+    "dissertação CAP/Dados",
+    "dissertação CAP/Artigos cietações.md",
+    "dissertação CAP/Citações",
+    "Sem título 1.canvas"
+  ]
+}

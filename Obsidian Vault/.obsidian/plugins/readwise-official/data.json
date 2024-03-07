@@ -1,0 +1,18 @@
+{
+  "token": "WTHPWitjqqDgBxvimWvMEQdsHLgP9FahU7pjGp8p0Y8O9XrSDg",
+  "readwiseDir": "Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 13188901,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "38134667"
+  ],
+  "booksIDsMap": {
+    "Readwise/Articles/Capsaicin Risks and Benefits.md": "38139266"
+  },
+  "reimportShowConfirmation": true
+}
