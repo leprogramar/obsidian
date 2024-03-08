@@ -25,7 +25,8 @@
 Posteriormente, o indivíduo terá seu estado de 
 hidratação avaliado por meio da análise da concentração urinária de acordo com a escala de coloração da urina. Será permitido um intervalo de avaliação na escala de hidratação de 1 a 4. O indivíduo cujo índice na escala ultrapasse o valor de 4 será instruído a consumir 500 ml de água e submeter-se novamente ao teste de hidratação.
 
-
+- [ ] Encontrar as escalas
+- [ ] 
 
 
 
