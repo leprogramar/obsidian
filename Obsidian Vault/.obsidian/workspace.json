@@ -6,32 +6,50 @@
       {
         "id": "4e808d6e918c68e5",
         "type": "tabs",
-        "dimension": 50.38033937975425,
         "children": [
           {
             "id": "cdda5e492ac0645d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md"
+                "file": "dissertação CAP/CAP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "96fa0209b0a62779",
+        "id": "1949280457a8bb46",
         "type": "tabs",
-        "dimension": 49.61966062024576,
         "children": [
           {
-            "id": "0f77f2a4e63bc437",
+            "id": "5cde2756c4b1b252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porque não usar a PSE.md",
+                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea21c44a1043ef3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a887c2dc6ed103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dissertação CAP/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.51103591918945,
-    "collapsed": true
+    "width": 214.51103591918945
   },
   "right": {
     "id": "e638a0effc65b430",
@@ -104,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porque não usar a PSE.md",
+                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porque não usar a PSE.md",
+                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Porque não usar a PSE.md"
+                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md"
               }
             }
           },
@@ -157,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,9 +191,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f77f2a4e63bc437",
+  "active": "5cde2756c4b1b252",
   "lastOpenFiles": [
+    "dissertação CAP/CAP.md",
+    "dissertação CAP/Dados/Introdução-reformulação 4.md",
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/TRPV1.md",
+    "dissertação CAP/Metodologia - reformulação 4.md",
+    "Pergunta/perguntas.md",
     "Pergunta/perguntas metodologia.md",
+    "metodologia reduzida.md",
     "Porque não usar a PSE.md",
     "Quantos indivíduos.md",
     "dissertação CAP/gpower.jpeg",
@@ -185,16 +209,13 @@
     "porque 1X50m e não 3X50m.md",
     "Alguém pode dar treinamento na plataforma de força.md",
     "Repouso sem acesso a telas.md",
-    "Pergunta/perguntas.md",
     "Quanto tempo até a cap atingir o pico.md",
     "Devo fazer controle de hidratação dos atletas 1.md",
-    "dissertação CAP/Metodologia - reformulação 4.md",
     "Pergunta/Kanban sem título 1.md",
     "Pergunta/Kanban sem título.md",
     "Pergunta/Sem título.canvas",
     "Devo fazer controle de hidratação dos atletas.md",
     "dissertação CAP/Mecanismos de ação.md",
-    "dissertação CAP/Introdução.md",
     "dissertação CAP/esquema-experimental.png",
     "arquivo do adendo/arquitetura de escrita.md",
     "Pergunta",
@@ -206,7 +227,6 @@
     "dissertação CAP/desenho-orientador.jpeg",
     "dissertação CAP/esquema experimental a4.png",
     "dissertação CAP/Pasted image 20240222175713.png",
-    "dissertação CAP/Esquema experimental.md",
     "dissertação CAP/esquema1.png",
     "dissertação CAP/esquema3.png",
     "dissertação CAP/2.png",
@@ -215,9 +235,6 @@
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo",
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo.zip",
     "dissertação CAP/Não confirmado 815910.crdownload",
-    "dissertação CAP/Citações/Links, textos e artigos.md",
-    "2024-02-26.md",
-    "Readwise/Articles/Getting Started with Reader.md",
     "Readwise/Articles",
     "Readwise",
     "projeto pdf",
