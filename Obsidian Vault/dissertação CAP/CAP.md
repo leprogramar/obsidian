@@ -31,3 +31,7 @@ Principais ações realizadas pela capsaicina independentemente do TRPV1. ( A ) 
 A capsaicina atravessa a barreira hematoencefálica de forma eficiente, conforme demonstrado por estudos em animais.
 
 foi demonstrado em estudos com animais que a capsaicina pode ser detectada no plasma, cérebro e medula espinhal após administração subcutânea
+
+A CAP atua principalmente por meio da ativação dos receptores TRPV1 (Transient Receptor Potential Vanilloid 1), que são canais iônicos sensíveis à temperatura e a uma variedade de ligantes endógenos e exógenos. Quando a CAP se liga aos receptores TRPV1, ocorre uma mudança conformacional que leva à abertura dos canais, permitindo a entrada de íons, como cálcio (Ca2+), nas terminações nervosas periféricas. Isso resulta na despolarização dessas terminações nervosas e na geração de potenciais de ação, que são transmitidos ao sistema nervoso central, onde são interpretados como sensações de dor, calor e ardência. Além disso, a ativação prolongada dos receptores TRPV1 pela CAP pode levar à dessensibilização neuronal, reduzindo a sensibilidade à dor e promovendo efeitos analgésicos.
+
+Por outro lado, a capsaicina, encontrada em pimentas, tem a capacidade de bloquear a transmissão da dor aos nervos, conforme discutido por Derry et al. (2009), sugerindo um efeito potencial no alívio da fadiga muscular.
