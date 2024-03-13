@@ -1,0 +1,1 @@
+O SMC fica após o aquecimento pq ai ele consegue captar algum efeito que a CAP ou o aquecimento possa ter. No caso o SMC nao poderia ser após os 50M pq o sprint teria efeito sobre o SCM ou mascararia os efeitos possiveis do aquecimento ou da CAP.

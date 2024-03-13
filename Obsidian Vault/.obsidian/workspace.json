@@ -11,11 +11,9 @@
             "id": "85a887c2dc6ed103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "dissertação CAP/Metodologia - reformulação 4.md",
-                "mode": "source",
-                "source": false
+                "file": "Pergunta/perguntas metodologia.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dissertação CAP/Metodologia - reformulação 4.md",
+                "file": "Pergunta/perguntas metodologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dissertação CAP/Metodologia - reformulação 4.md",
+                "file": "Pergunta/perguntas metodologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dissertação CAP/Metodologia - reformulação 4.md"
+                "file": "Pergunta/perguntas metodologia.md"
               }
             }
           },
@@ -157,54 +155,54 @@
   },
   "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
+    "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
+    "Pergunta/perguntas metodologia.md",
+    "porque usar a escala visual analogica.md",
+    "Referências 1 X 50m.md",
+    "dissertação CAP/Natação.md",
+    "porque usar a escala de hoppe.md",
+    "porque usar a escala de brums.md",
+    "Pasted image 20240313103955.png",
+    "Pasted image 20240313103646.png",
+    "Referências que usam o peso como controle de hidratação.md",
+    "Pergunta/Pereira et al. (2017).pdf",
+    "Pergunta/Pereira et al. (2017).pdf.crdownload",
+    "Pergunta/ACSM, 2007.pdf",
+    "O uso de creatina efetaria o meu resultado.md",
+    "Porque o SCM fica após o aquecimento.md",
+    "Será usado a escala de coloração de urina ?.md",
+    "Devo fazer controle de hidratação dos atletas ?.md",
+    "temperatura da agua.md",
+    "Recordatório alimentar todas as sessões alimentares.md",
+    "Como será realizada o controle do ciclo menstrual.md",
+    "Porque não usar a PSE.md",
+    "Quais serão as escalas usadas na metodologia.md",
+    "dissertação CAP/Metodologia - reformulação 4.md",
     "dissertação CAP/Introdução.md",
     "dissertação CAP/Dados/Introdução-reformulação 4.md",
     "dissertação CAP/CAP.md",
     "dissertação CAP/TRPV1.md",
-    "dissertação CAP/Metodologia - reformulação 4.md",
     "Pergunta/perguntas.md",
-    "Pergunta/perguntas metodologia.md",
     "metodologia reduzida.md",
-    "Porque não usar a PSE.md",
     "Quantos indivíduos.md",
     "dissertação CAP/gpower.jpeg",
     "Será usado a escala de coloração de urina.md",
-    "O termo a ser usado na escrita é  sprint  ou  tiro.md",
-    "porque 1X50m e não 3X50m.md",
-    "Alguém pode dar treinamento na plataforma de força.md",
-    "Repouso sem acesso a telas.md",
-    "Quanto tempo até a cap atingir o pico.md",
-    "Devo fazer controle de hidratação dos atletas 1.md",
-    "Pergunta/Kanban sem título 1.md",
-    "Pergunta/Kanban sem título.md",
     "Pergunta/Sem título.canvas",
-    "Devo fazer controle de hidratação dos atletas.md",
-    "dissertação CAP/Mecanismos de ação.md",
     "dissertação CAP/esquema-experimental.png",
-    "arquivo do adendo/arquitetura de escrita.md",
     "Pergunta",
-    "Título do adendo.md",
-    "dissertação CAP/Metodologia.md",
-    "Readwise/Articles/Capsaicin Risks and Benefits.md",
     "Sem título.canvas",
-    "dissertação CAP/ciclo menstrual.md",
     "dissertação CAP/desenho-orientador.jpeg",
     "dissertação CAP/esquema experimental a4.png",
     "dissertação CAP/Pasted image 20240222175713.png",
     "dissertação CAP/esquema1.png",
     "dissertação CAP/esquema3.png",
     "dissertação CAP/2.png",
-    "dissertação CAP/esquema2.png",
-    "dissertação CAP/1.png",
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo",
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo.zip",
     "dissertação CAP/Não confirmado 815910.crdownload",
     "Readwise/Articles",
     "Readwise",
     "projeto pdf",
-    "arquivo do adendo",
-    "dissertação CAP/Dados",
-    "dissertação CAP/Citações",
     "Sem título 1.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+É a maneira mais facil de determinar a motivação pre exercicio 
