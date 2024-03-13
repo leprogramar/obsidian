@@ -4,47 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4e808d6e918c68e5",
-        "type": "tabs",
-        "dimension": 26.416219439475253,
-        "children": [
-          {
-            "id": "cdda5e492ac0645d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dissertação CAP/CAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1949280457a8bb46",
-        "type": "tabs",
-        "dimension": 40.250447227191415,
-        "children": [
-          {
-            "id": "5cde2756c4b1b252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ea21c44a1043ef3e",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "85a887c2dc6ed103",
@@ -52,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dissertação CAP/Introdução.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dissertação CAP/Dados/Introdução-reformulação 4.md"
+                "file": "dissertação CAP/Metodologia - reformulação 4.md"
               }
             }
           },
@@ -194,7 +155,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5cde2756c4b1b252",
+  "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
     "dissertação CAP/Introdução.md",
     "dissertação CAP/Dados/Introdução-reformulação 4.md",

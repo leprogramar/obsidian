@@ -63,8 +63,13 @@ O tempo de nado de 15 metros será mensurado por meio de uma câmera digital (Ma
 Para a mensuração do estado de Motivação dos indivíduos para a realização do teste de 50 metros será utilizada uma EVA subjetiva de percepção de percepção de motivação. Essa escala possui uma distância de 100 milímetros, sendo que as extremidades são ancoradas às palavras "nenhum" e "máxima". Os indivíduos serão instruídos a marcar na escala o quanto "se sentem motivados para realizar a atividade a seguir". A distância em milímetros da extremidade esquerda até o ponto marcado pelo indivíduo será transformada em unidades arbitrárias para posterior análise.
 
 2.6.2 Brums
+rápida mensuração do estado de humor 
+o BRUMS contém 24 indicadores simples de humor, tais como as sensações de raiva, disposição, nervosismo e insatisfação que são perceptíveis pelo indivíduo que está sendo avaliado. Os avaliados respondem como se situam em relação às tais sensações, de acordo com a escala de 5 pontos (de 0 = nada a 4 = extremamente). 
+
+Os 24 itens da escala compõem as seis subescalas: raiva, confusão, depressão, fadiga, tensão e vigor. Cada subescala contém quatro itens. Com a soma das respostas de cada subescala, obtém-se um escore que pode variar de 0 a 16.
 
 2.6.3 Hopper
+O questionário Hooper Index para avaliação do bem-estar do atleta, foi realizado de forma individual, 30 minutos antes da sessão de treino e prova, para as variáveis qualidade do sono, stress, fadiga e dor muscular, utilizando uma escala de 1-7. Para as variáveis fadiga, stress e dor muscular 1 significa muito, 31 muito baixo e 7 muito, muito alto, na qualidade do sono 1 representa muito, muito mau e 7 muito, muito bom (Hooper & Mackinnon, 1995).
 
 2.7 Antropometria
 A massa corporal será mensurada em quilos(Kg) utilizando uma balança digital, para essa medida os indivíduos serão instruídos estarem descalços e com roupas leves. A estatura será mensurada em centímetros(cm) utilizando um estadiômetros, para essa medida os indivíduos serão instruídos a estarem descalços. As dobras cutâneas serão mensuradas em milímetros(mm) utilizando um plicômetros e seguindo o protocolo de Jackson e Pollocl (1978), para essa medida os indivíduos do sexo masculino serão instruídos a usarem bermudas, os indivíduos do sexo feminino serão instruidos  a estarem de short e top. 
