@@ -2,7 +2,7 @@
 CAPSAICINA
 
 A capsaicina (CAP) (8-metil-N-vanilil-trans-6-nonenamida) é um composto capsaicinoide sintetizado através da adição de um ácido graxo de cadeia ramificada à vanililamina nas sementes e tecido placentário de plantas do gênero Capsicum, conhecidas como pimentas vermelhas, (DAVID, et al., 1998).
-*(Capsaicina (CAP), também conhecida como 8-metil-N-vanilil-trans-6-nonenamida, é um capsaicinoide produzido pela incorporação de um ácido graxo de cadeia ramificada à vanililamina, presente nas sementes e tecido placentário de plantas do gênero Capsicum, popularmente conhecidas como pimentas vermelhas (DAVID et al., 1998).)*
+*(Capsaicina (CAP), também conhecida como 8-metil-N-vanilil-trans-6-nonenamida, é um capsaicinoide produzido pela incorporação de um ácido graxo de cadeia ramificada à vanililamina, presente nas sementes e tecido placentário de plantas do gênero Capsicum, popularmente conhecidas como pimentas vermelhas (DAVID et al., 1998).
 
 A CAP é responsável pela manifestação da característica pungente dessas frutas, percebido como sensação de ardência e aumento da temperatura. Supões-se que, para essas plantas, a pungência represente um mecanismo sensorial aversivo que desempenha um papel na proteção contra herbívoros e fungos. Quando isolada, a CAP é um pó cristalino branco altamente volátil, hidrofóbico, incolor e inodoro.
 

@@ -11,9 +11,11 @@
             "id": "85a887c2dc6ed103",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md"
+                "file": "arquivo do adendo/TCLE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md",
+                "file": "arquivo do adendo/TCLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md",
+                "file": "arquivo do adendo/TCLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md"
+                "file": "arquivo do adendo/TCLE.md"
               }
             }
           },
@@ -155,8 +157,29 @@
   },
   "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
-    "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
+    "arquivo do adendo/Tópicos do adendo.md",
+    "arquivo do adendo/TCLE.md",
+    "arquivo do adendo/arquitetura de escrita.md",
+    "dissertação CAP/Metodologia - reformulação 4.md",
+    "dissertação CAP/Esquema experimental.md",
+    "sessoes-experimentais.png",
+    "dissertação CAP/esquema experimental a4.png",
     "Pergunta/perguntas metodologia.md",
+    "Pergunta/perguntas.md",
+    "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
+    "porque 1X50m e não 3X50m.md",
+    "sessoes-experimentais.pgn",
+    "dissertação CAP/CAP.md",
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/esquema3.png",
+    "dissertação CAP/Pasted image 20240222175713.png",
+    "dissertação CAP/esquema2.png",
+    "dissertação CAP/esquema1.png",
+    "dissertação CAP/Metodologia.md",
+    "dissertação CAP/Objetivo.md",
+    "dissertação CAP/Hipótese.md",
+    "dissertação CAP/Mecanismos de ação.md",
+    "dissertação CAP/esquema-experimental.png",
     "porque usar a escala visual analogica.md",
     "Referências 1 X 50m.md",
     "dissertação CAP/Natação.md",
@@ -173,36 +196,15 @@
     "Será usado a escala de coloração de urina ?.md",
     "Devo fazer controle de hidratação dos atletas ?.md",
     "temperatura da agua.md",
-    "Recordatório alimentar todas as sessões alimentares.md",
-    "Como será realizada o controle do ciclo menstrual.md",
-    "Porque não usar a PSE.md",
-    "Quais serão as escalas usadas na metodologia.md",
-    "dissertação CAP/Metodologia - reformulação 4.md",
-    "dissertação CAP/Introdução.md",
-    "dissertação CAP/Dados/Introdução-reformulação 4.md",
-    "dissertação CAP/CAP.md",
-    "dissertação CAP/TRPV1.md",
-    "Pergunta/perguntas.md",
-    "metodologia reduzida.md",
-    "Quantos indivíduos.md",
     "dissertação CAP/gpower.jpeg",
-    "Será usado a escala de coloração de urina.md",
     "Pergunta/Sem título.canvas",
-    "dissertação CAP/esquema-experimental.png",
     "Pergunta",
     "Sem título.canvas",
-    "dissertação CAP/desenho-orientador.jpeg",
-    "dissertação CAP/esquema experimental a4.png",
-    "dissertação CAP/Pasted image 20240222175713.png",
-    "dissertação CAP/esquema1.png",
-    "dissertação CAP/esquema3.png",
-    "dissertação CAP/2.png",
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo",
     "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo.zip",
     "dissertação CAP/Não confirmado 815910.crdownload",
     "Readwise/Articles",
     "Readwise",
-    "projeto pdf",
     "Sem título 1.canvas"
   ]
 }

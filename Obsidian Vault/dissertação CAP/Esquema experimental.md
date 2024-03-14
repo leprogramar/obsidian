@@ -9,4 +9,4 @@ a imagem a baixo esta com a metodologia errada
 
 ![[esquema1.png]]
 ![[esquema2.png]]![[esquema3.png]]
-![[esquema experimental a4.png]]
+![[esquema experimental a4.png]]![[sessoes-experimentais.png]]
