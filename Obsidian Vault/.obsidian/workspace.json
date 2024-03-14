@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arquivo do adendo/TCLE.md",
+                "file": "dissertação CAP/Citações/Links, textos e artigos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arquivo do adendo/TCLE.md",
+                "file": "dissertação CAP/Citações/Links, textos e artigos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arquivo do adendo/TCLE.md",
+                "file": "dissertação CAP/Citações/Links, textos e artigos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arquivo do adendo/TCLE.md"
+                "file": "dissertação CAP/Citações/Links, textos e artigos.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
-    "arquivo do adendo/Tópicos do adendo.md",
     "arquivo do adendo/TCLE.md",
+    "arquivo do adendo/Tópicos do adendo.md",
     "arquivo do adendo/arquitetura de escrita.md",
     "dissertação CAP/Metodologia - reformulação 4.md",
     "dissertação CAP/Esquema experimental.md",

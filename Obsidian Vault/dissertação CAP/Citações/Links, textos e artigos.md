@@ -131,3 +131,20 @@ YANG, Fan et al. The conformational wave in capsaicin activation of transient re
   
 **
 
+usei a semana do dia 14:00
+https://tede.ufrrj.br/jspui/bitstream/jspui/5907/2/2020%20-%20Gabriela%20Mastrangelo%20Gon%C3%A7alves.pdf
+
+
+https://repositorio.ufpe.br/bitstream/123456789/50789/3/TCC%20Johnnys%20Manoel%20da%20Silva.pdf
+
+https://rbmc.emnuvens.com.br/rbmc/article/view/142/82
+
+https://diabetes.org.br/capsaicina-e-performance-esportiva/
+
+https://repositorio.ufmg.br/bitstream/1843/EEFF-BB6SZL/1/disserta__o_luizavieira___efeito_agudo_de_um_protocolo_espec_fico_de__potencializa__o_p_s_ativa__o_sobre_o_desempenho_na_sa_da_de_bloco_de_nadadores__competitivos.pdf
+
+https://repositorio.ufmg.br/bitstream/1843/BUOS-9RUFYW/1/disserta__o_gabriel_quinan.pdf
+
+https://repositorio.ufmg.br/bitstream/1843/46203/1/TESE%20CAP%20PDFA.pdf
+
+file:///home/leticia/%C3%81rea%20de%20Trabalho/janinesilva,+Gerente+da+revista,+AEO-v44-n1-arch8-2008.pdf
