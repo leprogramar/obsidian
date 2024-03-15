@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dissertação CAP/Mecanismos de ação.md",
+                "file": "dissertação CAP/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dissertação CAP/Mecanismos de ação.md",
+                "file": "dissertação CAP/Introdução-reformulação 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dissertação CAP/Mecanismos de ação.md",
+                "file": "dissertação CAP/Introdução-reformulação 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dissertação CAP/Mecanismos de ação.md"
+                "file": "dissertação CAP/Introdução-reformulação 4.md"
               }
             }
           },
@@ -175,28 +175,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af89ca6013b8288",
+  "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/Introdução-reformulação 4.md",
+    "dissertação CAP/Citações/Links, textos e artigos.md",
     "dissertação CAP/TRPV1.md",
     "dissertação CAP/CAP.md",
-    "dissertação CAP/Introdução-reformulação 4.md",
-    "dissertação CAP/Hipótese.md",
-    "dissertação CAP/Introdução.md",
     "dissertação CAP/Mecanismos de ação.md",
-    "dissertação CAP/gpower.jpeg",
-    "dissertação CAP/esquema3.png",
     "dissertação CAP/Metodologia - reformulação 4.md",
-    "dissertação CAP/Citações/Links, textos e artigos.md",
-    "arquivo do adendo/arquitetura de escrita.md",
+    "dissertação CAP/esquema3.png",
+    "dissertação CAP/Natação.md",
     "arquivo do adendo/TCLE.md",
-    "arquivo do adendo/Tópicos do adendo.md",
+    "dissertação CAP/Objetivo.md",
+    "dissertação CAP/Hipótese.md",
     "Pergunta/perguntas metodologia.md",
+    "dissertação CAP/gpower.jpeg",
+    "arquivo do adendo/arquitetura de escrita.md",
+    "arquivo do adendo/Tópicos do adendo.md",
     "Pergunta/perguntas.md",
     "dissertação CAP/Pasted image 20240222175713.png",
     "dissertação CAP/ciclo menstrual.md",
     "dissertação CAP/Esquema de coletas.md",
     "dissertação CAP/Esquema experimental.md",
-    "dissertação CAP/Natação.md",
     "dissertação CAP/Metodologia.md",
     "dissertação CAP/esquema1.png",
     "dissertação CAP/esquema experimental a4.png",
@@ -205,7 +206,6 @@
     "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
     "porque 1X50m e não 3X50m.md",
     "sessoes-experimentais.pgn",
-    "dissertação CAP/Objetivo.md",
     "dissertação CAP/esquema-experimental.png",
     "porque usar a escala visual analogica.md",
     "Referências 1 X 50m.md",
@@ -213,7 +213,6 @@
     "porque usar a escala de brums.md",
     "Pasted image 20240313103955.png",
     "Pasted image 20240313103646.png",
-    "Referências que usam o peso como controle de hidratação.md",
     "Pergunta/Pereira et al. (2017).pdf",
     "Pergunta/Pereira et al. (2017).pdf.crdownload",
     "Pergunta/ACSM, 2007.pdf",
