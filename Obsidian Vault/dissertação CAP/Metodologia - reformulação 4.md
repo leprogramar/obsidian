@@ -55,7 +55,7 @@ Para mensurar o tempo de reação será utilizado uma câmera da marca GoPro, mo
 - [x] 2.5.4.4 Velocidade horizontal de saída do bloco 
 Para mensurar a velocidade horizontal de saída do bloco será utilizado uma câmera da marca GoPro, modelo Hero 12, com resolução 4K, com frequência de aquisição de 60 Hz. A câmera ficará posicionada a uma distância de 5 metros da borda da piscina e será acionada antes do sinal de partida. O calculo da velocidade horizontal de saída do bloco será realizado com o auxilio do software Kinovea (versão 0.9.5), o qual realizará a divisão entre distância em que a mão do indivíduo tocou a água e tempo desde a partida até esse momento.
 
-- [x] 2.6 Escalas perseverativas
+- [x] 2.6 Escalas perceptivas
 As variáveis perceptivas analisadas neste estudo serão: Escala Visual Analógica,  Escala de Humor de Brunel, Escala de Hopper. O uso dessas escalas visa investigar potênciais efeitos da CAP da percepção subjetiva sobre o exercício.
 
 - [x] 2.6.1 Escala Visual Analógica(EVA)
@@ -68,4 +68,4 @@ Para a mensuração do estado de humor dos indivíduos será utilizada a escala 
 Para a mensuração de estado perceptivo de bem-estar dos indivíduos será utilizada a escala de Hooper. A escala de Hopper avalia as variáveis qualidade do sono, stress, fadiga e dor muscular. Cada pergunta é qualificada de forma individual com pontuações que vão de 1 (“Muito baixo ou bom”) a 7 (“Muito alto ou ruim”).
 
 - [x] 2.7 Antropometria
-A massa corporal será mensurada em quilos(Kg) utilizando uma balança digital, para essa medida os indivíduos serão instruídos estarem descalços e com roupas leves. A estatura será mensurada em centímetros(cm) utilizando um estadiômetros, para essa medida os indivíduos serão instruídos a estarem descalços. As dobras cutâneas serão mensuradas em milímetros(mm) utilizando um plicômetros e seguindo o protocolo de Jackson e Pollocl (1978), para essa medida os indivíduos do sexo masculino serão instruídos a usarem bermudas, os indivíduos do sexo feminino serão instruidos  a estarem de short e top. 
+A massa corporal será mensurada em quilos(Kg) utilizando uma balança digital, para essa medida os indivíduos serão instruídos estarem descalços e com roupas leves. A estatura será mensurada em centímetros(cm) utilizando um estadiômetros, para essa medida os indivíduos serão instruídos a estarem descalços. As dobras cutâneas serão mensuradas em milímetros(mm) utilizando um plicômetros e seguindo o protocolo de Jackson e Polloc (1978), para essa medida os indivíduos do sexo masculino serão instruídos a usarem bermudas, os indivíduos do sexo feminino serão instruidos  a estarem de short e top. 
