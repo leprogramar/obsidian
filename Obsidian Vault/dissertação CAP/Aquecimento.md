@@ -1,0 +1,5 @@
+Sabe-se que um aquecimento eficaz melhora o desempenho físico dos atletas e reduz o risco de lesões desportivas(11. Shellock FG, Prentice NÓS. Aquecimento e alongamento para melhoria do desempenho físico e prevenção de lesões desportivas . Medicina Esportiva . (1985) 2 ( 4 ):267–78. 10.2165/00007256-198502040-00004 [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3849057) ] [ [CrossRef](https://doi.org/10.2165%2F00007256-198502040-00004) ] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sports+Med&title=Warming-up+and+stretching+for+improved+physical+performance+and+prevention+of+sports-related+injuries&author=FG+Shellock&author=WE+Prentice&volume=2&issue=4&publication_year=1985&pages=267-78&pmid=3849057&doi=10.2165/00007256-198502040-00004&) ] [ [Lista de referências](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10927743/#B11) ])
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10927743/ artigo aquecimento 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588894/

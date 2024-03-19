@@ -148,3 +148,11 @@ https://repositorio.ufmg.br/bitstream/1843/BUOS-9RUFYW/1/disserta__o_gabriel_qui
 https://repositorio.ufmg.br/bitstream/1843/46203/1/TESE%20CAP%20PDFA.pdf
 
 file:///home/leticia/%C3%81rea%20de%20Trabalho/janinesilva,+Gerente+da+revista,+AEO-v44-n1-arch8-2008.pdf
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10927743/ artigo aquecimento 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588894/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544352/
+
+https://www.redalyc.org/pdf/2730/273023636004.pdf

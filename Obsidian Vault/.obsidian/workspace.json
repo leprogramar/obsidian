@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantos indivíduos.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantos indivíduos.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantos indivíduos.md",
+                "file": "dissertação CAP/Metodologia - reformulação 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantos indivíduos.md"
+                "file": "dissertação CAP/Metodologia - reformulação 4.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,26 +146,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "85a887c2dc6ed103",
   "lastOpenFiles": [
-    "Pergunta/perguntas metodologia.md",
-    "dissertação CAP/Introdução-reformulação 4.md",
     "dissertação CAP/Dados/Análise de dados.md",
-    "dissertação CAP/Objetivo.md",
     "dissertação CAP/Hipótese.md",
+    "dissertação CAP/Objetivo.md",
+    "dissertação CAP/Introdução-reformulação 4.md",
     "dissertação CAP/Metodologia - reformulação 4.md",
+    "dissertação CAP/esquema experimental-2.png",
+    "dissertação CAP/Aquecimento.md",
+    "dissertação CAP/Esquema experimental.md",
+    "dissertação CAP/Citações/Links, textos e artigos.md",
+    "Quantos indivíduos.md",
+    "Pergunta/perguntas metodologia.md",
     "porque usar a escala de hoppe.md",
     "porque usar a escala de brums.md",
     "dissertação CAP/Introdução.md",
-    "dissertação CAP/Citações/Links, textos e artigos.md",
     "dissertação CAP/TRPV1.md",
     "dissertação CAP/CAP.md",
     "dissertação CAP/Mecanismos de ação.md",
@@ -180,20 +183,15 @@
     "dissertação CAP/Pasted image 20240222175713.png",
     "dissertação CAP/ciclo menstrual.md",
     "dissertação CAP/Esquema de coletas.md",
-    "dissertação CAP/Esquema experimental.md",
     "dissertação CAP/Metodologia.md",
     "dissertação CAP/esquema1.png",
     "dissertação CAP/esquema experimental a4.png",
     "dissertação CAP/esquema2.png",
     "sessoes-experimentais.png",
     "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
-    "porque 1X50m e não 3X50m.md",
     "sessoes-experimentais.pgn",
     "dissertação CAP/esquema-experimental.png",
-    "porque usar a escala visual analogica.md",
-    "Referências 1 X 50m.md",
     "Pasted image 20240313103955.png",
-    "Pasted image 20240313103646.png",
     "Pergunta/Pereira et al. (2017).pdf",
     "Pergunta/Pereira et al. (2017).pdf.crdownload",
     "Pergunta/ACSM, 2007.pdf",
