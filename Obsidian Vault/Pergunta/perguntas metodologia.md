@@ -11,6 +11,11 @@ kanban-plugin: basic
 - [ ] Vai ser uma plataforma de força ou um tapete?
 - [ ] [[Recordatório alimentar todas as sessões alimentares]]
 - [ ] Poderia fazer um piloto?
+- [ ] como ficaria os 10 min de descanso apos o  aquecimento
+- [ ] é aquecimento ou é PAP
+- [ ] quais o mecanismos do PAP
+- [ ] quais os mecanismos do aquecimento ativo
+- [ ] nado amarrado
 
 
 ## **Respondendo**
