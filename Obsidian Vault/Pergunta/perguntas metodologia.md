@@ -15,7 +15,9 @@ kanban-plugin: basic
 - [ ] é aquecimento ou é PAP
 - [ ] quais o mecanismos do PAP
 - [ ] quais os mecanismos do aquecimento ativo
-- [ ] nado amarrado
+- [ ] escalas perceptivas antes do salto?
+- [ ] questionário de efeitos adversos CAP
+- [ ] força reativa
 
 
 ## **Respondendo**
@@ -26,12 +28,13 @@ kanban-plugin: basic
 - [ ] [[temperatura da agua]]
 - [ ] [[porque usar a escala visual analogica]]
 - [ ] [[porque usar a escala de brums]]
-- [ ] [[porque usar a escala de hoppe]]
+- [ ] [[porque usar a escala de hopper 1]]
 
 
 ## ***Respondidas (concluídas)**
 
 **Concluído**
+- [x] nado amarrado
 - [x] [[Referências que usam o peso como controle de hidratação]]
 - [x] [[Será usado a escala de coloração de urina ?]]
 - [x] [[O termo a ser usado na escrita é  sprint  ou  tiro]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea21c44a1043ef3e",
+        "id": "612d1f6658f972d0",
         "type": "tabs",
         "children": [
           {
-            "id": "85a887c2dc6ed103",
+            "id": "b3aaf60dfd358c5a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "database-plugin",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md"
+                "file": "notas diarias/controle de estudos.md"
               }
             }
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.51103591918945
+    "width": 262.51103591918945
   },
   "right": {
     "id": "e638a0effc65b430",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md",
+                "file": "notas diarias/controle de estudos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md",
+                "file": "notas diarias/controle de estudos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,23 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pergunta/perguntas metodologia.md"
+                "file": "notas diarias/controle de estudos.md"
               }
             }
           },
           {
-            "id": "018954a51099d42a",
+            "id": "617196092ad548a2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 375.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,58 +150,60 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "85a887c2dc6ed103",
+  "active": "b3aaf60dfd358c5a",
   "lastOpenFiles": [
-    "dissertação CAP/Citações/Links, textos e artigos.md",
-    "Pergunta/perguntas metodologia.md",
+    "projeto pdf/proj-vers5.pdf",
+    "projeto pdf/proj-mestrado-let.pdf",
+    "projeto pdf/proj-vers5.pdf.crdownload",
+    "Alguém pode dar treinamento na plataforma de força.md",
+    "projeto pdf/proj-vers5.docx",
+    "projeto pdf/projeto versao 4.md",
+    "notas diarias/controle de estudos.md",
+    "projeto pdf/proj-mestrado-let.pdf.crdownload",
+    "notas diarias/2024-03-28.md",
+    "2024-W12.md",
+    "notas diarias/2024-03-27.md",
+    "notas diarias/2024-03-24.md",
+    "notas diarias/2024-03-23.md",
+    "notas diarias/2024-03-25.md",
+    "notas diarias/2024-03-26.md",
+    "notas diarias/2024-03-22.md",
+    "notas diarias/2024-03-21.md",
+    "notas diarias/2024-03-20.md",
+    "dissertação CAP/Introdução-reformulação 4.md",
+    "dissertação CAP/Mecanismos de ação.md",
+    "notas diarias",
+    "dissertação CAP/Esquema de coletas.md",
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/Pasted image 20240222175713.png",
+    "dissertação CAP/Esquema experimental.md",
     "dissertação CAP/CAP.md",
     "dissertação CAP/Metodologia - reformulação 4.md",
+    "Pergunta/perguntas metodologia.md",
+    "porque usar a escala de hopper 1.md",
+    "dissertação CAP/desenho-orientador.jpeg",
+    "dissertação CAP/esquema-experimental.png",
+    "dissertação CAP/esquema experimental a4.png",
+    "dissertação CAP/Citações/Links, textos e artigos.md",
     "dissertação CAP/Dados/Análise de dados.md",
     "dissertação CAP/Hipótese.md",
-    "dissertação CAP/Objetivo.md",
-    "dissertação CAP/Introdução-reformulação 4.md",
     "dissertação CAP/esquema experimental-2.png",
-    "dissertação CAP/Aquecimento.md",
-    "dissertação CAP/Esquema experimental.md",
-    "Quantos indivíduos.md",
-    "porque usar a escala de hoppe.md",
-    "porque usar a escala de brums.md",
-    "dissertação CAP/Introdução.md",
-    "dissertação CAP/TRPV1.md",
-    "dissertação CAP/Mecanismos de ação.md",
     "dissertação CAP/esquema3.png",
-    "dissertação CAP/Natação.md",
-    "arquivo do adendo/TCLE.md",
     "dissertação CAP/gpower.jpeg",
-    "arquivo do adendo/arquitetura de escrita.md",
-    "arquivo do adendo/Tópicos do adendo.md",
-    "Pergunta/perguntas.md",
-    "dissertação CAP/Pasted image 20240222175713.png",
-    "dissertação CAP/ciclo menstrual.md",
-    "dissertação CAP/Esquema de coletas.md",
-    "dissertação CAP/Metodologia.md",
     "dissertação CAP/esquema1.png",
-    "dissertação CAP/esquema experimental a4.png",
     "dissertação CAP/esquema2.png",
     "sessoes-experimentais.png",
-    "Perguntar ao indivíduo se ele sabe o que ingeriu.md",
     "sessoes-experimentais.pgn",
-    "dissertação CAP/esquema-experimental.png",
-    "Pasted image 20240313103955.png",
     "Pergunta/Pereira et al. (2017).pdf",
     "Pergunta/Pereira et al. (2017).pdf.crdownload",
     "Pergunta/ACSM, 2007.pdf",
     "Pergunta/Sem título.canvas",
     "Pergunta",
     "Sem título.canvas",
-    "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo",
-    "dissertação CAP/Branco e Linhas em Carvão Casamento Logotipo.zip",
-    "dissertação CAP/Não confirmado 815910.crdownload",
-    "Readwise/Articles",
-    "Readwise",
     "Sem título 1.canvas"
   ]
 }
