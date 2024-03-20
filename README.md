@@ -18,7 +18,7 @@ Como mencionado anteriormente, estou aberta a críticas construtivas e contribui
 
 ## Contato
 
-Se você tiver alguma dúvida ou quiser discutir qualquer aspecto da dissertação, sinta-se à vontade para entrar em contato comigo através do email [gontijo967@gmail](mailto:gontijo967@gmail.com).
+Se você tiver alguma dúvida ou quiser discutir qualquer aspecto da dissertação, sinta-se à vontade para entrar em contato comigo através do email [gontijo967@gmail.com](mailto:gontijo967@gmail.com).
 
 Obrigada por visitar o repositório e acompanhar o meu trabalho!!!
 
