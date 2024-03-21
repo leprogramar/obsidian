@@ -156,3 +156,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588894/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544352/
 
 https://www.redalyc.org/pdf/2730/273023636004.pdf
+
+https://multivix.edu.br/wp-content/uploads/2023/11/revista-cosmos-academico-v08-n01-artigo01.pdf

@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] escalas perceptivas antes do salto?
 - [ ] questionário de efeitos adversos CAP
 - [ ] força reativa
+- [ ] o SCM vai interferir no 50 metros?
 
 
 ## **Respondendo**

@@ -11,9 +11,11 @@
             "id": "b3aaf60dfd358c5a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "notas diarias/controle de estudos.md"
+                "file": "arquivo do adendo/TCLE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas diarias/controle de estudos.md",
+                "file": "arquivo do adendo/TCLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas diarias/controle de estudos.md",
+                "file": "arquivo do adendo/TCLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas diarias/controle de estudos.md"
+                "file": "arquivo do adendo/TCLE.md"
               }
             }
           },
@@ -156,13 +158,28 @@
   },
   "active": "b3aaf60dfd358c5a",
   "lastOpenFiles": [
+    "dissertação CAP/CAP.md",
+    "dissertação CAP/Citações/Links, textos e artigos.md",
+    "arquivo do adendo/TCLE.md",
+    "Pergunta/perguntas metodologia.md",
+    "notas diarias/controle de estudos.md",
+    "dissertação CAP/Metodologia - reformulação 4.md",
+    "dissertação CAP/Introdução-reformulação 4.md",
+    "dissertação CAP/Introdução.md",
+    "dissertação CAP/gpower.jpeg",
+    "dissertação CAP/Pasted image 20240222175713.png",
+    "dissertação CAP/Aquecimento.md",
+    "dissertação CAP/Esquema de coletas.md",
+    "dissertação CAP/desenho-orientador.jpeg",
+    "Readwise/Articles/Capsaicin Risks and Benefits.md",
+    "Readwise/Articles",
+    "Readwise",
     "projeto pdf/proj-vers5.pdf",
     "projeto pdf/proj-mestrado-let.pdf",
     "projeto pdf/proj-vers5.pdf.crdownload",
     "Alguém pode dar treinamento na plataforma de força.md",
     "projeto pdf/proj-vers5.docx",
     "projeto pdf/projeto versao 4.md",
-    "notas diarias/controle de estudos.md",
     "projeto pdf/proj-mestrado-let.pdf.crdownload",
     "notas diarias/2024-03-28.md",
     "2024-W12.md",
@@ -174,35 +191,20 @@
     "notas diarias/2024-03-22.md",
     "notas diarias/2024-03-21.md",
     "notas diarias/2024-03-20.md",
-    "dissertação CAP/Introdução-reformulação 4.md",
     "dissertação CAP/Mecanismos de ação.md",
     "notas diarias",
-    "dissertação CAP/Esquema de coletas.md",
-    "dissertação CAP/Introdução.md",
-    "dissertação CAP/Pasted image 20240222175713.png",
     "dissertação CAP/Esquema experimental.md",
-    "dissertação CAP/CAP.md",
-    "dissertação CAP/Metodologia - reformulação 4.md",
-    "Pergunta/perguntas metodologia.md",
     "porque usar a escala de hopper 1.md",
-    "dissertação CAP/desenho-orientador.jpeg",
     "dissertação CAP/esquema-experimental.png",
     "dissertação CAP/esquema experimental a4.png",
-    "dissertação CAP/Citações/Links, textos e artigos.md",
-    "dissertação CAP/Dados/Análise de dados.md",
-    "dissertação CAP/Hipótese.md",
     "dissertação CAP/esquema experimental-2.png",
     "dissertação CAP/esquema3.png",
-    "dissertação CAP/gpower.jpeg",
     "dissertação CAP/esquema1.png",
     "dissertação CAP/esquema2.png",
     "sessoes-experimentais.png",
     "sessoes-experimentais.pgn",
     "Pergunta/Pereira et al. (2017).pdf",
-    "Pergunta/Pereira et al. (2017).pdf.crdownload",
-    "Pergunta/ACSM, 2007.pdf",
     "Pergunta/Sem título.canvas",
-    "Pergunta",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

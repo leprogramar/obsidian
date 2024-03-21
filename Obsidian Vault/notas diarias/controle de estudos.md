@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 207
+    width: 131
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -41,7 +41,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 130
+    width: 108
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -179,6 +179,102 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 119
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  newColumn9:
+    input: text
+    accessorKey: newColumn9
+    key: newColumn9
+    id: newColumn9
+    label: Topico abordado
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 150
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  newColumn10:
+    input: text
+    accessorKey: newColumn10
+    key: newColumn10
+    id: newColumn10
+    label: Topico abordado
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  newColumn11:
+    input: text
+    accessorKey: newColumn11
+    key: newColumn11
+    id: newColumn11
+    label: Topico abordado
+    position: 10
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Organização:
+    input: checkbox
+    accessorKey: Organização
+    key: Organização
+    id: Organização
+    label: Organização
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Adendo:
+    input: checkbox
+    accessorKey: Adendo
+    key: Adendo
+    id: Adendo
+    label: Adendo
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true

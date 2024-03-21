@@ -5,13 +5,15 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 13408327,
+  "lastSavedStatusID": 13427083,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "38134667",
     "38139266"
   ],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Readwise/Articles/Capsaicin Risks and Benefits.md": "38139266"
+  },
   "reimportShowConfirmation": true
 }
