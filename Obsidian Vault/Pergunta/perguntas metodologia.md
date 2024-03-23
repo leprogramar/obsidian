@@ -19,6 +19,8 @@ kanban-plugin: basic
 - [ ] questionário de efeitos adversos CAP
 - [ ] força reativa
 - [ ] o SCM vai interferir no 50 metros?
+- [ ] eva de preparação
+- [ ] variáveis biomecânicas
 
 
 ## **Respondendo**
@@ -30,6 +32,7 @@ kanban-plugin: basic
 - [ ] [[porque usar a escala visual analogica]]
 - [ ] [[porque usar a escala de brums]]
 - [ ] [[porque usar a escala de hopper 1]]
+- [ ] [[Porque não usar a PSE]]
 
 
 ## ***Respondidas (concluídas)**
@@ -40,7 +43,6 @@ kanban-plugin: basic
 - [x] [[Será usado a escala de coloração de urina ?]]
 - [x] [[O termo a ser usado na escrita é  sprint  ou  tiro]]
 - [x] [[Porque o SCM fica após o aquecimento]]
-- [x] [[Porque não usar a PSE]]
 - [x] [[O uso de creatina efetaria o meu resultado]]
 - [x] [[Como será realizada o controle do ciclo menstrual]]
 - [x] [[porque 1X50m e não 3X50m]]
