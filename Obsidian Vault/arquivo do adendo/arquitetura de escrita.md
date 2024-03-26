@@ -11,8 +11,7 @@ kanban-plugin: basic
 
 ## Fazendo
 
-- [ ] Introdução
-- [ ] Metodologioa
+- [ ] [[Introdução]]
 - [ ] Hipóteses
 - [ ] Objetivo
 - [ ] Desfecho primério
@@ -22,6 +21,7 @@ kanban-plugin: basic
 
 ## Concluido
 
+- [ ] Metodologioa
 
 
 
