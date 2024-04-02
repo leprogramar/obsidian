@@ -63,7 +63,7 @@ hidratação avaliado por meio da análise da concentração urinária de acordo
 [[CAP]]
 [[TRPV1]]
 [[Dados]]
-[[Mecanismos de ação]]
+[[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Mecanismos de ação]]
 [[Introdução]]
 [[Análise de dados]]
 [[Hipótese]]
