@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## **A responder**
 
-- [ ] O aquecimento de 500 metros está certo?
-- [ ] Quais referências embasam o aquecimento?
 - [ ] Vai ser uma plataforma de força ou um tapete?
 - [ ] [[Recordatório alimentar todas as sessões alimentares]]
 - [ ] Poderia fazer um piloto?
@@ -25,6 +23,7 @@ kanban-plugin: basic
 
 ## **Respondendo**
 
+- [ ] Quais referências embasam o aquecimento?
 - [ ] [[Perguntar ao indivíduo se ele sabe o que ingeriu]]
 - [ ] [[Referências 1 X 50m]]
 - [ ] A beta alanina afetaria meu resultado?
@@ -32,18 +31,19 @@ kanban-plugin: basic
 - [ ] [[porque usar a escala visual analogica]]
 - [ ] [[porque usar a escala de brums]]
 - [ ] [[porque usar a escala de hopper 1]]
-- [ ] [[Porque não usar a PSE]]
 
 
 ## ***Respondidas (concluídas)**
 
 **Concluído**
+- [x] O aquecimento de 500 metros está certo?
 - [x] nado amarrado
 - [x] [[Referências que usam o peso como controle de hidratação]]
 - [x] [[Será usado a escala de coloração de urina ?]]
 - [x] [[O termo a ser usado na escrita é  sprint  ou  tiro]]
 - [x] [[Porque o SCM fica após o aquecimento]]
 - [x] [[O uso de creatina efetaria o meu resultado]]
+- [x] [[Porque não usar a PSE]]
 - [x] [[Como será realizada o controle do ciclo menstrual]]
 - [x] [[porque 1X50m e não 3X50m]]
 - [x] [[Quantos indivíduos]]

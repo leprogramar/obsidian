@@ -8,25 +8,25 @@ https://stock.adobe.com/br/search?k=chili+pepper+wallpaper&asset_id=600636698
 é um site que eu usei para tirar imagens de pimenta para o meu site
 
 https://www.sciencedirect.com/science/article/abs/pii/S016372580900196X?via%3Dihub
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10078540/
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8778706/
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10609899/
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9029810/
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://onlinelibrary.wiley.com/doi/10.1002/med.21427
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 https://www.ncbi.nlm.nih.gov/books/NBK459168/
-Um artigo que tirei coisas para escrever o [[CAP]] e [[TRPV1]]
+Um artigo que tirei coisas para escrever o [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP]] e [[TRPV1]]
 
 **
 

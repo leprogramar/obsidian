@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "151f1b7134ef3e36",
+        "id": "b63f47a8283d80d3",
         "type": "tabs",
         "children": [
           {
-            "id": "265d11080c59238e",
+            "id": "3ada64e76b86cebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/AQUECIMENTO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/AQUECIMENTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/AQUECIMENTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/AQUECIMENTO.md"
               }
             }
           },
@@ -155,8 +155,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "90ee838bdd964806",
+  "active": "3ada64e76b86cebf",
   "lastOpenFiles": [
+    "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/CAP.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/AQUECIMENTO.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Base teórica/NATAÇÃO.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/canvas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/Quadros.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Base teórica",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas",
+    "Dissertacao-versoes/Dissertacao-versao-5/Sem título.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais.md",
+    "Dissertacao-versoes/Dissertacao-versão-4/Pergunta/perguntas metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Kanban sem título.md",
+    "README.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Sem título.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações",
     "Sem título",
     "Dissertacao-versoes/Dissertacao-versao-5/Introdução/modelos de estrutura de escrita",
@@ -165,19 +183,13 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia",
     "Dissertacao-versoes/Dissertacao-versao-5/Hipóteses",
     "Dissertacao-versoes/Dissertacao-versao-5/Mecanismos de ação.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Mecanismos de ação",
-    "Dissertacao-versoes/Dissertacao-versao-5/Objetivos",
-    "Dissertacao-versoes/Dissertacao-versao-5/Introdução",
     "Dissertacao-versoes/Dissertacao-versao-5/Citaçoes/Sem título.md",
-    "Sem título.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citaçoes",
     "Dissertacao-versoes/Dissertacao-versão-4/arquivo do adendo/arquitetura de escrita.md",
     "Pergunta/perguntas metodologia.md",
     "arquivo do adendo/arquitetura de escrita.md",
     "dissertação CAP/Introdução.md",
     "Pergunta/perguntas.md",
     "dissertação CAP/Metodologia - reformulação 4.md",
-    "Pergunta",
     "Título do adendo.md",
     "dissertação CAP/Metodologia.md",
     "Readwise/Articles/Capsaicin Risks and Benefits.md",
@@ -192,18 +204,6 @@
     "dissertação CAP/esquema3.png",
     "dissertação CAP/2.png",
     "dissertação CAP/esquema2.png",
-    "dissertação CAP/1.png",
-    "dissertação CAP/3.png",
-    "dissertação CAP/Mecanismos de ação.md",
-    "dissertação CAP/Citações/Links, textos e artigos.md",
-    "2024-02-26.md",
-    "Readwise/Articles/Getting Started with Reader.md",
-    "arquivo do adendo/Tópicos do adendo.md",
-    "dissertação CAP/CAP.md",
-    "dissertação CAP/Esquema de coletas.md",
-    "dissertação CAP/TRPV1.md",
-    "dissertação CAP/Natação.md",
-    "esquema-experimental.png.md",
     "Sem título 1.canvas"
   ]
 }
