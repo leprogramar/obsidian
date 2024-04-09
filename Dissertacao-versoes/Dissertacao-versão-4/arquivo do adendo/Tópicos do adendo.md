@@ -14,6 +14,6 @@
 14. TCLE
 15. Justificativa da ementa
 
-[[Metodologia]]
+[[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Metodologia]]
 [[Introdução]]
 [[Hipótese]]

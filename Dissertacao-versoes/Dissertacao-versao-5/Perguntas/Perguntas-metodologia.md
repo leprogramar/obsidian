@@ -12,6 +12,12 @@ kanban-plugin: basic
 - [ ] utilizar varáveis biomevcânicas?
 - [ ] Qual o mecanismos exato da CAP
 - [ ] efeito da CAP no angulo de base do salto
+- [ ] 16 saltos ou 8 saltos na familiarização
+- [ ] 3 ou 4 saltos nas sessões experimentais?
+- [ ] escala de mclean?
+- [ ] qual o nome e modelo da plataforma de força?
+- [ ] qual   nome e modelos dos equipamentos usado?
+- [ ] qual escala de PSE?
 
 
 ## Respondendo

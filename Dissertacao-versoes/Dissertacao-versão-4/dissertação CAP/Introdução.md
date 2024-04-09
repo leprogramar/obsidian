@@ -25,7 +25,7 @@ Com base nas evidências anteriormente apresentadas, é pertinente hipotetizar q
 
 **
 
-[[Metodologia]]
+[[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Metodologia]]
 [[Hipótese]]
 [[Objetivo]]
 [[Links, textos e artigos]]
