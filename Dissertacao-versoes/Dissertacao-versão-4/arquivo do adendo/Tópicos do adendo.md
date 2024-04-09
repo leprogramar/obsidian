@@ -15,5 +15,5 @@
 15. Justificativa da ementa
 
 [[Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Metodologia]]
-[[Introdução]]
+[[Dissertacao-versoes/Dissertacao-versão-4/Introdução]]
 [[Hipótese]]

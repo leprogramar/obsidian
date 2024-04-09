@@ -11,7 +11,7 @@ kanban-plugin: basic
 
 ## Fazendo
 
-- [ ] [[Introdução]]
+- [ ] [[Dissertacao-versoes/Dissertacao-versão-4/Introdução]]
 - [ ] Hipóteses
 - [ ] Objetivo
 - [ ] Desfecho primério

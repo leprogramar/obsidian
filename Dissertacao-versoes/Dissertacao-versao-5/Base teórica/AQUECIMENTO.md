@@ -13,3 +13,5 @@ Melhoria do recrutamento das unidades motoras
 O Aumento do débito cardíaco, do fluxo sangüíneo periférico, e aumento do metabolismo energético
 
     Os mesmos estão associados a um déficit de oxigênio (Robergs _et al_., 1991 & Robergs _et al_., 1998) e diminuição do acumulo de H+ (Bishop, 2003b), estando relacionados à melhora do desempenho da execução de atividades físicas posteriores ao aquecimento. (Fletcher & Jones, 2004).
+
+https://www.efdeportes.com/efd209/a-influencia-do-aquecimento-no-desempenho-da-forca.htm

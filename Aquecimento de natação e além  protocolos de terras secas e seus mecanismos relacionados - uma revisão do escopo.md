@@ -1,0 +1,2 @@
+https://pubmed.ncbi.nlm.nih.gov/?term=Cuenca-Fern%C3%A1ndez+F&cauthor_id=36153425
+Os nadadores podem otimizar o desempenho a partir de um aquecimento que inclua uma quilometragem moderada de exercícios aquáticos (~ 1000 m) realizados a uma intensidade ≤ 60% do consumo máximo de oxigênio, especialmente se for seguido por ~ 5 min de atividades em terra firme e não deixar nenhum mais de 10 a 15 minutos de descanso durante a fase de transição, pois isso manteria a atividade muscular e a temperatura corporal elevadas até a corrida de natação subsequente.

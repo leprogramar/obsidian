@@ -6,7 +6,7 @@
 - Author: [[Manouchehr Saljoughian, PharmD, PhD Department of Pharmacy, Alta Bates Medical Center Berkeley, Cali...]]
 - Full Title: Capsaicin: Risks and Benefits
 - Category: #articles
-- Document Note: [[introdução]]
+- Document Note: [[Dissertacao-versoes/Dissertacao-versão-4/Introdução]]
 - Summary: Capsaicin, a compound found in chili peppers, has various benefits and risks. It can relieve pain in conditions like arthritis and psoriasis when used topically. Capsaicin also shows potential in killing prostate cancer cells. However, it can cause burning sensations and irritations. Proper precautions should be taken in handling capsaicin to avoid adverse effects like skin irritation, eye exposure issues, and ingestion-related symptoms.
 - URL: https://www.uspharmacist.com/article/capsaicin-risks-and-benefits
 
