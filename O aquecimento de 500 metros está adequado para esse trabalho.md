@@ -1,0 +1,2 @@
+sim !
+![[protocolo-aquecimento.jpeg]]

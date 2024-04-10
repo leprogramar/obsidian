@@ -4,15 +4,25 @@ kanban-plugin: basic
 
 ---
 
-## ref-cap
+## CAP
+
+- [ ] [[Capsaicina tópica para tratamento da dor  potencial terapêutico e mecanismos de ação do novo adesivo de alta concentração de capsaicina 8%]]
+- [ ] [[Extração, purificação, bioatividade e efeitos farmacológicos da capsaicina  uma revisão]]
+- [ ] [[Comida picante e pimenta e vários resultados de saúde  revisão do guarda-chuva]]
+- [ ] [[Capsaicina e seu efeito no desempenho do exercício, fadiga e inflamação após o exercício]]
+- [ ] [[SUPLEMENTAÇÃO DE CAPSAICINA E A MELHORA DO RENDIMENTO ESPORTIVO  UMA REVISÃO DE LITERATURA]]
+
+
+## TRPV1
+
+- [ ] [[O papel paradoxal do potencial receptor transitório do receptor vanilóide 1 na inflamação]]
+
+
+## NATAÇÃO
 
 
 
-## ref-natação
-
-
-
-## ref-aquecimento
+## AQUECIMENTO
 
 - [ ] [[A influência do aquecimento ativo específico]]  <br>e geral no desempenho da força
 - [ ] [[Warm Up II 1]]<br>Performance Changes Following Active Warm Up and How<br>to Structure the Warm Up
@@ -29,18 +39,12 @@ kanban-plugin: basic
 - [ ] [[O efeito do aquecimento nas forças de natação de crawl amarrado]]
 - [ ] [[Aquecimento e desempenho na natação competitiva]]
 - [ ] [[Efeitos do aquecimento no desempenho físico  uma revisão sistemática com meta-análise]]
-- [ ] [[SUPLEMENTAÇÃO DE CAPSAICINA E A MELHORA DO RENDIMENTO ESPORTIVO  UMA REVISÃO DE LITERATURA]]
-- [ ] [[Capsaicina e seu efeito no desempenho do exercício, fadiga e inflamação após o exercício]]
-- [ ] [[O papel paradoxal do potencial receptor transitório do receptor vanilóide 1 na inflamação]]
-- [ ] [[Comida picante e pimenta e vários resultados de saúde  revisão do guarda-chuva]]
-- [ ] [[Extração, purificação, bioatividade e efeitos farmacológicos da capsaicina  uma revisão]]
-- [ ] [[Capsaicina tópica para tratamento da dor  potencial terapêutico e mecanismos de ação do novo adesivo de alta concentração de capsaicina 8%]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","tag-colors":[],"show-view-as-markdown":false,"show-add-list":true}
 ```
 %%

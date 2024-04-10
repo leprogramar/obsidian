@@ -1,0 +1,1 @@
+Com certeza. A Resposta para essa pergunta está na fadiga mental 

@@ -1,3 +1,6 @@
+
+#Introdução  #Dados #Metodologia
+
 https://www.uspharmacist.com/article/capsaicin-risks-and-benefits
 É um link de um site que fala um pouco sobre capsaicina, tinha pensado em colocar no meu site e fala da escala de apimentados
 

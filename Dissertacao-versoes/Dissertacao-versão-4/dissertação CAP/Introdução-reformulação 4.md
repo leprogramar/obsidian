@@ -1,3 +1,4 @@
+#Introdução #Citaçoes 
 **1 INTRODUÇÃO 
 
 A capsaicina(CAP) é um composto capsionoide presente nas plantas do gênero Capsicum, conhecidas como pimenta vermelha. A CAP é responsável pela manifestação da característica pungente que se traduz em sensação de ardência e aumento da temperatura percebida(DAVID, et al., 1998). Acredita-se que, para essas plantas, a ardência represente um mecanismo sensorial aversivo que desempenha um papel na proteção contra herbívoros e fungos(SHARMA; VIJ; SHARMA, 2013). A CAP é biossintetizada nas sementes e tecido placentário das pimentas através  da incorporação de um ácido graxo de cadeia ramificada à vanililamina. Por esse motivo, é conhecida também como um composto valanoide.

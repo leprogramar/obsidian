@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2bfac3f716626ef2",
+        "id": "e19fcc79b5f9fb3f",
         "type": "tabs",
         "children": [
           {
-            "id": "b8e407ec797034cc",
+            "id": "a81fb8e067e72e84",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
+    "width": 321.5,
     "collapsed": true
   },
   "right": {
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
               }
             }
           },
@@ -154,55 +154,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b8e407ec797034cc",
+  "active": "a81fb8e067e72e84",
   "lastOpenFiles": [
-    "Capsaicina tópica para tratamento da dor  potencial terapêutico e mecanismos de ação do novo adesivo de alta concentração de capsaicina 8%.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
-    "Extração, purificação, bioatividade e efeitos farmacológicos da capsaicina  uma revisão.md",
-    "Comida picante e pimenta e vários resultados de saúde  revisão do guarda-chuva.md",
-    "O papel paradoxal do potencial receptor transitório do receptor vanilóide 1 na inflamação.md",
-    "Capsaicina e seu efeito no desempenho do exercício, fadiga e inflamação após o exercício.md",
-    "SUPLEMENTAÇÃO DE CAPSAICINA E A MELHORA DO RENDIMENTO ESPORTIVO  UMA REVISÃO DE LITERATURA.md",
-    "Efeitos do aquecimento no desempenho físico  uma revisão sistemática com meta-análise.md",
-    "Aquecimento e desempenho na natação competitiva.md",
-    "O efeito do aquecimento nas forças de natação de crawl amarrado.md",
-    "Efeitos do aquecimento no desempenho da natação sprint, na avaliação do esforço percebido e na concentração de lactato sanguíneo  uma revisão sistemática.md",
-    "Estratégias de aquecimento para esporte e exercício  mecanismos e aplicações.md",
-    "Aquecimento de natação e além  protocolos de terras secas e seus mecanismos relacionados - uma revisão do escopo.md",
-    "Aquecimento para natação Sprint  ritmo de corrida ou estimulação aeróbica  Um estudo randomizado.md",
-    "Os efeitos de diferentes volumes de aquecimento no desempenho dos 100 m de natação.md",
-    "Do Thirty-Second Post-activation Potentiation Exercises Improve the 50-m Freestyle Sprint Performance in Adolescent Swimmers.md",
-    "Princípios fisiológicos do aquecimento e alongamento muscular na atividade esportiva.md",
-    "O efeito do aquecimento no rendimento dos 50 m de nado.md",
-    "Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Citações/Citações esquematizadas.md",
-    "Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Aquecimento.md",
-    "Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/CAP.md",
-    "Warm-Up and Performance in Competitive Swimming.md",
-    "Dissertacao-versoes/Dissertacao-versão-4/dissertação CAP/Citações/Kanban sem título.md",
-    "Warm Up II 1.md",
-    "A influência do aquecimento ativo específico.md",
-    "EFFECTS OF DIFFERENT TYPES OF WARM-UP ON.md",
+    "48 horas ou 24 horas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "qual escala de PSE.md",
+    "16 saltos ou 8 saltos na familiarização.md",
+    "utilizar varáveis biomevcânicas.md",
+    "Quais as cordenadas exata das câmeras.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg.crdownload",
+    "Dissertacao-versoes/Dissertacao-versão-4/Pergunta/perguntas metodologia.md",
+    "O nado atado se aplicaria ao meu estudo.md",
+    "Será usado a escala de coloração de urina.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg.crdownload",
+    "Pq o Salto fica antes dos 50m.md",
+    "Pq o salto fica dapois da escala.md",
+    "Deve ser feito o controle de hidratação dos indivíduos.md",
+    "Pq 45 min de repouso.md",
+    "Quais serão as escalas psicofisiológicas utilizadas no estudo.md",
+    "Alguém poderia dar treinamento da plataforma de força.md",
+    "Quantos indivíduos compõem a amostra.md",
+    "O repouso é sem acesso a telas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png",
+    "piloto de salto.md",
+    "Pq 1x50 e não 3x50.md",
+    "Usar o peso como controle de hidratação.md",
+    "A PSE pode ser inclusa no trabalho.md",
+    "O descanso de 10' é adequado para esse trabalho.md",
+    "O aquecimento de 500 metros está adequado para esse trabalho.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/canvas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
+    "qual a temperatura da psicina.md",
+    "Para o salto será usado a plataforma ou tapete.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  Warm up.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  Warm up.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2012 BALILIONIS - Effects of Different Types of Warm-Up on Swimming Performance, Reaction Time, and Dive Distance.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/2012 BALILIONIS - Effects of Different Types of Warm-Up on Swimming Performance, Reaction Time, and Dive Distance.pdf.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/2014 NEIVA Warm-up and performance in competitive swimming.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/2014 NEIVA Warm-up and performance in competitive swimming.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Recordatorio de 24h - Bases da Nutrição.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png.crdownload",
     "Sem título.canvas",
     "dissertação CAP/desenho-orientador.jpeg",
     "dissertação CAP/esquema experimental a4.png",
-    "dissertação CAP/Pasted image 20240222175713.png",
-    "dissertação CAP/esquema-experimental.png",
-    "dissertação CAP/esquema1.png",
-    "dissertação CAP/esquema3.png",
     "Sem título 1.canvas"
   ]
 }

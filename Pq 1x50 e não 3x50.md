@@ -1,0 +1,1 @@
+Foi argumentado que na situação de 3 salto não mostrava a realidade de 1 *sprint* 
