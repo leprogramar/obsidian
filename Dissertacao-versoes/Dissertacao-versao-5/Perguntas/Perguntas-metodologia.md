@@ -21,9 +21,10 @@ kanban-plugin: basic
 - [ ] salto interfere na saida de bloco?
 - [ ] pse borg ou modificada?
 - [ ] a famialirização precisa ser no mesmo horário da situação experimental?
-- [ ] matchpoint
 - [ ] [[Quantos indivíduos compõem a amostra]]
 - [ ] [[piloto de salto]]
+- [ ] experimento pode cair no domingo?
+- [ ] hanna horario de coleta
 
 
 ## Respondendo
@@ -63,7 +64,11 @@ kanban-plugin: basic
 - [ ] [[qual a temperatura da psicina]]
 
 
+***
 
+## Arquivado
+
+- [ ] matchpoint
 
 %% kanban:settings
 ```

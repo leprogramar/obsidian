@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e19fcc79b5f9fb3f",
+        "id": "6d805f813717731c",
         "type": "tabs",
         "children": [
           {
-            "id": "a81fb8e067e72e84",
+            "id": "9050970f02c805dd",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dbf51cbc9398522",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,7 +25,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "e638a0effc65b430",
@@ -151,13 +159,32 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a81fb8e067e72e84",
+  "active": "8dbf51cbc9398522",
   "lastOpenFiles": [
-    "48 horas ou 24 horas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-22 3-fam..md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-05 6-experi4.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 6-experi3.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-30 6-experi2.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-26 6-experi1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-23 6-fami.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-04 3-experi4.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-01 3-experiment3.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-29 3-experi2.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-25 3-experi1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 piloto salto.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Organizar as datas de coleta.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Escrita do trabalho .md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar pesquisa no CTE.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/Sem título.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar a pesquisa no CTE.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Treinamento SCM.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário",
+    "48 horas ou 24 horas.md",
     "qual escala de PSE.md",
     "16 saltos ou 8 saltos na familiarização.md",
     "utilizar varáveis biomevcânicas.md",
@@ -169,36 +196,18 @@
     "Será usado a escala de coloração de urina.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg.crdownload",
-    "Pq o Salto fica antes dos 50m.md",
-    "Pq o salto fica dapois da escala.md",
-    "Deve ser feito o controle de hidratação dos indivíduos.md",
-    "Pq 45 min de repouso.md",
-    "Quais serão as escalas psicofisiológicas utilizadas no estudo.md",
-    "Alguém poderia dar treinamento da plataforma de força.md",
-    "Quantos indivíduos compõem a amostra.md",
-    "O repouso é sem acesso a telas.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png",
-    "piloto de salto.md",
-    "Pq 1x50 e não 3x50.md",
-    "Usar o peso como controle de hidratação.md",
-    "A PSE pode ser inclusa no trabalho.md",
-    "O descanso de 10' é adequado para esse trabalho.md",
-    "O aquecimento de 500 metros está adequado para esse trabalho.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/canvas.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
-    "qual a temperatura da psicina.md",
-    "Para o salto será usado a plataforma ou tapete.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  Warm up.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  Warm up.pdf.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/2012 BALILIONIS - Effects of Different Types of Warm-Up on Swimming Performance, Reaction Time, and Dive Distance.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Recordatorio de 24h - Bases da Nutrição.jpeg",
     "Sem título.canvas",
     "dissertação CAP/desenho-orientador.jpeg",
