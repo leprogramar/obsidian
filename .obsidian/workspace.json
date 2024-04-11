@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "8dbf51cbc9398522",
+            "id": "ec195688fd3561b5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf"
               }
             }
           },
@@ -163,18 +163,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8dbf51cbc9398522",
+  "active": "ec195688fd3561b5",
   "lastOpenFiles": [
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Reunião quinan.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 reunião quinan.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-22 3-fam..md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-05 6-experi4.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 6-experi3.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-30 6-experi2.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-26 6-experi1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-25 6-experi1.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-23 6-fami.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-04 3-experi4.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-01 3-experiment3.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-29 3-experi2.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-25 3-experi1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-30 3-experi4.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-28 3-experiment3.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-26 3-experi2.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-24 3-experi1.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 piloto salto.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Organizar as datas de coleta.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Escrita do trabalho .md",
@@ -182,28 +192,17 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/Sem título.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar a pesquisa no CTE.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Treinamento SCM.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário",
     "48 horas ou 24 horas.md",
     "qual escala de PSE.md",
     "16 saltos ou 8 saltos na familiarização.md",
     "utilizar varáveis biomevcânicas.md",
     "Quais as cordenadas exata das câmeras.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg.crdownload",
-    "Dissertacao-versoes/Dissertacao-versão-4/Pergunta/perguntas metodologia.md",
-    "O nado atado se aplicaria ao meu estudo.md",
-    "Será usado a escala de coloração de urina.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  - Warm up II.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/2003 BISHOP  Warm up.pdf",
