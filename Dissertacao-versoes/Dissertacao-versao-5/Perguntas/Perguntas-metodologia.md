@@ -11,9 +11,8 @@ kanban-plugin: basic
 - [ ] trabalhar com força reativa?
 - [ ] Qual o mecanismos exato da CAP
 - [ ] efeito da CAP no angulo de base do salto
-- [ ] 3 ou 4 saltos nas sessões experimentais?
 - [ ] qual o nome e modelo da plataforma de força?
-- [ ] qual   nome e modelos dos equipamentos usado?
+- [ ] [[qual   nome e modelos dos equipamentos usado]]
 - [ ] [[qual escala de PSE]]
 - [ ] Capsicum é em italico
 - [ ] trpv1 é maiusculo?
@@ -34,8 +33,9 @@ kanban-plugin: basic
 - [ ] [[Quais as cordenadas exata das câmeras]]
 - [ ] Como a beta alanina pode influenciar nos dados?
 - [ ] porque usar a escala visual analógica
-- [ ] pq usar a escala de hopper
-- [ ] pq usar a escala de brums
+- [ ] [[pq usar a escala de hopper]]
+- [ ] [[pq usar a escala de brums]]
+- [ ] [[3 ou 4 saltos nas sessões experimentais]]
 - [ ] o que p aquecimento tem haver com a cap?
 - [ ] é aquecimento ou PPA
 - [ ] como a beta-alanina pode afeta os meus dados deste estudo?

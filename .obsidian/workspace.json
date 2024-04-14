@@ -16,17 +16,16 @@
             }
           },
           {
-            "id": "ec195688fd3561b5",
+            "id": "d4fa1c8acf93f6e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf"
+                "file": "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md"
               }
             }
           },
@@ -163,10 +162,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ec195688fd3561b5",
+  "active": "9050970f02c805dd",
   "lastOpenFiles": [
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Verificar problema do software SCM.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Verificar email andre.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Mandar email Samuel.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 passar formulário coleta.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Pedro coletas.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 piloto salto.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "3 ou 4 saltos nas sessões experimentais.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
+    "qual   nome e modelos dos equipamentos usado.md",
+    "pq usar a escala de brums.md",
+    "pq usar a escala de hopper.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
@@ -185,19 +194,10 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-28 3-experiment3.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-26 3-experi2.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-24 3-experi1.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 piloto salto.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Organizar as datas de coleta.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Escrita do trabalho .md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-14 Organizar as datas de coleta.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-14 Escrita do trabalho.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar pesquisa no CTE.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/Sem título.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar a pesquisa no CTE.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Treinamento SCM.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário",
-    "48 horas ou 24 horas.md",
-    "qual escala de PSE.md",
-    "16 saltos ou 8 saltos na familiarização.md",
-    "utilizar varáveis biomevcânicas.md",
-    "Quais as cordenadas exata das câmeras.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/image.png",
