@@ -18,16 +18,14 @@ kanban-plugin: basic
 - [ ] trpv1 é maiusculo?
 - [ ] é exercicio de restiencia ou exercicio prolongado?
 - [ ] salto interfere na saida de bloco?
-- [ ] pse borg ou modificada?
-- [ ] a famialirização precisa ser no mesmo horário da situação experimental?
 - [ ] [[Quantos indivíduos compõem a amostra]]
 - [ ] [[piloto de salto]]
-- [ ] experimento pode cair no domingo?
-- [ ] hanna horario de coleta
+- [ ] [[Materiais que tenho q pegar do Lafise]]
 
 
 ## Respondendo
 
+- [ ] [[Tem video aula do kinovea]]
 - [ ] [[16 saltos ou 8 saltos na familiarização]]
 - [ ] O salto pode influenciar na saída de bloco?
 - [ ] [[Quais as cordenadas exata das câmeras]]
@@ -43,6 +41,8 @@ kanban-plugin: basic
 
 ## Repondidas
 
+- [ ] [[pse borg ou modificada]]
+- [ ] [[experimento pode cair no domingo]]
 - [ ] escala de mclean?
 - [ ] [[48 horas ou 24 horas]]
 - [ ] [[utilizar varáveis biomevcânicas]]
@@ -53,6 +53,7 @@ kanban-plugin: basic
 - [ ] [[Deve ser feito o controle de hidratação dos indivíduos]]
 - [ ] [[Pq 45 min de repouso]]
 - [ ] [[Quais serão as escalas psicofisiológicas utilizadas no estudo]]
+- [ ] [[a famialirização precisa ser no mesmo horário da situação experimental]]
 - [ ] [[Alguém poderia dar treinamento da plataforma de força]]
 - [ ] [[O repouso é sem acesso a telas]]
 - [ ] [[Pq 1x50 e não 3x50]]

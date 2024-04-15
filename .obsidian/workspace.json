@@ -25,7 +25,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "e638a0effc65b430",
@@ -162,41 +164,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9050970f02c805dd",
+  "active": "d4fa1c8acf93f6e4",
   "lastOpenFiles": [
+    "a famialirização precisa ser no mesmo horário da situação experimental.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-18 teste de câmera 2.md",
+    "Materiais que tenho q pegar do Lafise.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
+    "Materiais que tem que pegar no lafise.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-16 Teste câmera1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-19 Piloto 2.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-17 Piloto 1.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-16 Email -materiais samuel.md",
+    "APLICABILIDADE DA ANÁLISE CINEMÁTICA NA EDUCAÇÃO FÍSICA ESCOLAR  A SAÍDA DO BLOCO EM NATAÇÃO.md",
+    "Tem video aula do kinovea.md",
+    "pse borg ou modificada.md",
+    "experimento pode cair no domingo.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-16 falar com o lucinao das cÂmeras.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-14 olhar kineova contrubuição.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-15 organizar atividades semanais.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-15 ligar farmacia CAP.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-15 corrigir formulario hanna.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-15 criar formulário pesquisa.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-15 criar formulário atendimento atletas natação.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-16 consertar software SCM.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Verificar problema do software SCM.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Verificar email andre.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Mandar email Samuel.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 passar formulário coleta.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-12 Pedro coletas.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 piloto salto.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
-    "3 ou 4 saltos nas sessões experimentais.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
-    "qual   nome e modelos dos equipamentos usado.md",
-    "pq usar a escala de brums.md",
-    "pq usar a escala de hopper.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Reunião quinan.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 reunião quinan.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-22 3-fam..md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-05 6-experi4.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 6-experi3.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-30 6-experi2.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-25 6-experi1.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-23 6-fami.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-30 3-experi4.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-28 3-experiment3.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-26 3-experi2.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-24 3-experi1.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-14 Organizar as datas de coleta.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-14 Escrita do trabalho.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-11 Apresentar pesquisa no CTE.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg.crdownload",
