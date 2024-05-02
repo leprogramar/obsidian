@@ -42,6 +42,11 @@ kanban-plugin: basic
 - [ ] [[Efeitos do aquecimento no desempenho físico  uma revisão sistemática com meta-análise]]
 
 
+## Hidratação
+
+- [ ] [[STAND, ACSM Position 2009.]]
+
+
 
 
 %% kanban:settings

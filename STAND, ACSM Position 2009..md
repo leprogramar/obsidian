@@ -1,0 +1,1 @@
+STAND, ACSM Position. Exercise and fluid replacement. **Medicine and science in sports and exercise**, v. 39, n. 2, p. 377-390, 2009.

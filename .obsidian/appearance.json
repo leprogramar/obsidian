@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true
 }
