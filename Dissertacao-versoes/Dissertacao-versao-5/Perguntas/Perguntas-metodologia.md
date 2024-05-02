@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] [[Quantos indivíduos compõem a amostra]]
 - [ ] [[piloto de salto]]
 - [ ] [[Materiais que tenho q pegar do Lafise]]
+- [ ] [[dados de SCM]]
 
 
 ## Respondendo
