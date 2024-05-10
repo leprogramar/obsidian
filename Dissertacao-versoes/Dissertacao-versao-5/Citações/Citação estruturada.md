@@ -45,6 +45,7 @@ kanban-plugin: basic
 ## Hidratação
 
 - [ ] [[STAND, ACSM Position 2009.]]
+- [ ] https://www.scielo.br/j/rbme/a/7QD5xyBKdjsGf7KRqqkKGCK/#:~:text=Segundo%20o%20American%20College%20of,sudorese%20ou%20o%20m%C3%A1ximo%20tolerado.
 
 
 
