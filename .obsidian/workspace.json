@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,32 +165,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9050970f02c805dd",
+  "active": "90ee838bdd964806",
   "lastOpenFiles": [
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE).pdf",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE).pdf.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Metodologia.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Introdução/modelos de estrutura de escrita/INTRODUÇÃO.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-16 sessão familia, Guilherme.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-14 entrar em contato com a isadora, flavia, vitoria e luiza para eeffto.md",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/10.1124@pr.112.006163.pdf",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/10.1124@pr.112.006163.pdf.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/BankCapsaicinPaper.pdf",
+    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/BankCapsaicinPaper.pdf.crdownload",
+    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Sem título.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/tabela-coletapdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Não confirmado 1141.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/canvas.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Introdução/modelos de estrutura de escrita/INTRODUÇÃO.md",
     "STAND, ACSM Position 2009..md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Metodologia.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/brums.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/brums.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Recordatorio de 24h - Bases da Nutrição.jpeg",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/familiarização-roteiro.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Documento sem título.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/REGISTRO_alimentar.pdf",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Urine colour chart - Version 3.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 reuniao com o luciano.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-10 organizar as referencias.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-10 organizar a introdução.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 organizar a metodologia.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/Perguntas-metodologia.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/familiarização-roteiro.pdf.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Documento sem título.pdf.crdownload",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-05-02 imprimir eva.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-25 reuniao quinan.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-27 familiarização wesley.md",
@@ -203,9 +207,6 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/10-aquecimento.jpeg",
     "Materiais que tenho q pegar do Lafise.md",
     "a famialirização precisa ser no mesmo horário da situação experimental.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-18 teste de câmera 2.md",
-    "Materiais que tem que pegar no lafise.md",
-    "Dissertacao-versoes/Dissertacao-versao-5/Calendário/2024-04-16 Teste câmera1.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/posicao-camera.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/protocolo-aquecimento.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Perguntas/escala-coloracao-urina.jpeg",
