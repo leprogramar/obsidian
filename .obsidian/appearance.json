@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "baseFontSize": 19,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }
