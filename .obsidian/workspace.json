@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac640a8795f4e87a",
+        "id": "8efafa0ebfed3d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "bded8b63bc7f4a17",
+            "id": "0acf87f92819ad0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-6/METODOLOGIA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-6/METODOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-6/METODOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dissertacao-versoes/Dissertacao-versao-6/METODOLOGIA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bded8b63bc7f4a17",
+  "active": "0acf87f92819ad0a",
   "lastOpenFiles": [
-    "Dissertacao-versoes/Dissertacao-versao-6/INTRODUCAO.md",
+    "Dissertacao-versoes/Dissertacao-versao-6/DADOS.md",
+    "dados-dissertacao-let.csv",
     "Dissertacao-versoes/Dissertacao-versao-6/METODOLOGIA.md",
+    "Dissertacao-versoes/Dissertacao-versao-6/INTRODUCAO.md",
     "fig3.png",
     "fig2 1.png",
     "fig2.png",
@@ -169,7 +163,6 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Metodologia.md",
     "Sem título.md",
     "Dissertacao-versoes/Dissertacao-versao-6/OBJETIVOS.md",
-    "Dissertacao-versoes/Dissertacao-versao-6/DADOS.md",
     "Dissertacao-versoes/Dissertacao-versao-6",
     "Dissertacao-versoes/Dissertacao-versao-5/Introdução/modelos de estrutura de escrita/INTRODUÇÃO.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/Citação estruturada.md",
@@ -184,7 +177,6 @@
     "Dissertacao-versoes/Dissertacao-versao-5/Citações/Sem título.md",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/tabela-coletapdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Metodologia/Não confirmado 1141.crdownload",
-    "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/esquema-dissertacao-le.pdf",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/desenho-orientador.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/meu-quadro-main.jpeg",
     "Dissertacao-versoes/Dissertacao-versao-5/Esquemas mentais/canvas.md",
